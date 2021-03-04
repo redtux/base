@@ -1,4 +1,4 @@
-FROM ubuntu@sha256:2aeed98f2fa91c365730dc5d70d18e95e8d53ad4f1bbf4269c3bb625060383f0
+FROM ubuntu@sha256:32776cc92b5810ce72e77aca1d949de1f348e1d281d3f00ebcc22a3adcdc9f42
 
 ARG DEBIAN_FRONTEND="noninteractive"
 
